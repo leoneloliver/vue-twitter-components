@@ -59,13 +59,13 @@ body{
 
 /* Track */
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 0 #f3f4f6;
+  /* box-shadow: inset 0 0 0 #f3f4f6; */
   border-radius: 0px;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #f3f4f6;
+  /* background: #f3f4f6; */
   border-radius: 0px;
 }
 

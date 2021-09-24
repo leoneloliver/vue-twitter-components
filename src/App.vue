@@ -17,7 +17,7 @@ export default {
 
 <style>
 #app {
- background: #fff;
+ /* background: #fff; */
  color: #1f1f1f;
  max-width: 1280px;
  margin: 0 auto;
